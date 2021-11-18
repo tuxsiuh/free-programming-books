@@ -1,7 +1,6 @@
 ### Index
 
 * [Algoritmos](#algoritmos)
-* [Angular](#angular)
 * [Databases](#databases)
 * [DataScience](#datascience)
 * [Game development](#game-development)
@@ -13,6 +12,7 @@
 * [PHP](#php)
 * [Python](#python)
 * [TypeScript](#typescript)
+  * [Angular](#angular)
 * [Vue.js](#vuejs)
 
 
@@ -20,11 +20,6 @@
 
 * [Curso em Vídeo - Curso de Lógica de Programação](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) (screencast)
 * [Portugol Studio](https://www.youtube.com/playlist?list=PLJ4lbwalqv3Eaiay2pCeU_QU6vb-Hz989) (screencast)
-
-
-### Angular
-
-* [Loiane - Angular 4](https://www.youtube.com/watch?v=tPOMG0D57S0&list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G) (screencast)
 
 
 ### Databases
@@ -38,8 +33,10 @@
 
 * [Data Hackers](https://datahackers.com.br/podcast) (podcast)
 * [Data Science Academy](http://datascienceacademy.com.br/blog/podcast-dsa/) (podcast)
+* [Let's Data](https://www.youtube.com/playlist?list=PLn_z5E4dh_Lj5eogejMxfOiNX3nOhmhmM) - Bernardo Lago, Felipe Schiavon, Leon Silva (screencast)
 * [Pizza de Dados](https://pizzadedados.com) (podcast)
 * [Programação Dinâmica - Machine Learning em Python](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5CBxLkdqmou_86syFK7U3Q) (screencast)
+* [Teste de Turing](https://anchor.fm/testedeturing) - Erick Fonseca (podcast)
 
 
 ### Game development
@@ -114,6 +111,11 @@
 * [TypeScript - Aprendendo Junto](https://www.youtube.com/playlist?list=PL62G310vn6nGg5OzjxE8FbYDzCs_UqrUs) (screencast)
 
 
-#### Vue.js
+#### Angular
+
+* [Loiane - Angular 4](https://www.youtube.com/watch?v=tPOMG0D57S0&list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G) (screencast)
+
+
+### Vue.js
 
 * [Série de vídeos sobre Vue.js](https://vimeo.com/channels/1115590/videos/) - Origem: Vedovelli  (screencast)

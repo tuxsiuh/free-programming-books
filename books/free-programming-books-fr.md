@@ -11,9 +11,10 @@
 * [Assembleur](#assembleur)
 * [Bash / Shell](#bash--shell)
 * [C / C++](#c--c)
-* [Caml](#caml)
+* [Caml / OCaml](#caml--ocaml)
 * [Coq](#coq)
 * [CSS](#css)
+* [Fortran](#fortran)
 * [Git](#git)
 * [Haskell](#haskell)
 * [Java](#java)
@@ -58,6 +59,7 @@
 #### Algorithmique
 
 * [Algorithmique](http://pauillac.inria.fr/~quercia/cdrom/cours/) - Michel Quercia
+* [Algorithmique du texte](http://igm.univ-mlv.fr/~mac/CHL/CHL-2011.pdf) - Maxime Crochemore, Christophe Hancart, Thierry Lecroq (PDF)
 * [Complexité algorithmique](http://www.liafa.univ-paris-diderot.fr/~sperifel/livre_complexite.html) - Sylvain Perifel
 * [Éléments d'algorithmique](http://www-igm.univ-mlv.fr/~berstel/Elements/Elements.pdf) - D. Beauquier, J. Berstel, et Ph. Chrétienne (PDF)
 * [France-IOI](http://www.france-ioi.org)
@@ -93,16 +95,20 @@
 ### Assembleur
 
 * [PC Assembly Language](http://drpaulcarter.com/pcasm/) - Paul A. Carter
+* [Reverse Engineering for Beginners](https://beginners.re/RE4B-FR.pdf) - Dennis Yurichev, Florent Besnard, Marc Remy, Baudouin Landais, Téo Dacquet (PDF)
 
 
 ### Bash / Shell
 
 * [Guide avancé d'écriture des scripts Bash](http://abs.traduc.org/abs-fr/)
+* [La programmation Shell](https://frederic-lang.developpez.com/tutoriels/linux/prog-shell/) - Frederic Lang, Idriss Neumann
 
 
-### Caml
+### Caml / OCaml
 
-* [Le language Caml](http://caml.inria.fr)
+* [Développement d'applications avec Objective Caml](https://www-apr.lip6.fr/~chaillou/Public/DA-OCAML) - Emmanuel Chailloux, Pascal Manoury, Bruno Pagano
+* [Le langage Caml](https://caml.inria.fr/pub/distrib/books/llc.pdf) - Pierre Weis, Xavier Leroy (PDF)
+* [Programmation du système Unix en Objective Caml](https://web.archive.org/web/20211115022546/http://gallium.inria.fr/~remy/camlunix/) - Xavier Leroy, Didier Rémy
 
 
 ### C / C++
@@ -110,7 +116,6 @@
 * [Cours de C/C++](http://casteyde.christian.free.fr/cpp/cours/online/book1.html) - Christian Casteyde
 * [Guide pour la programmation réseaux de Beej's - Utilisation des sockets Internet](http://vidalc.chez.com/lf/socket.html) - (HTML)
 * [Le C en 20 heures](http://framabook.org/le-c-en-20-heures-2/) - Eric Berthomier et Daniel Schang
-* [Le langage C](https://zestedesavoir.com/tutoriels/755/le-langage-c-1/) - Informaticienzero, Taure, Paraze et Lucas-84
 * [Programmation en Langage C et Systèmes Informatiques](https://sites.uclouvain.be/SystInfo/notes/Theorie/) - O. Bonaventure, E. Riviere, G. Detal, C. Paasch
 
 
@@ -122,6 +127,15 @@
 ### CSS
 
 * [Apprendre les mises en page CSS](http://fr.learnlayout.com)
+
+
+### Fortran
+
+* [IDRIS adaptation of the Fortran 77 manual](http://www.idris.fr/formations/fortran/fortran-77.html) - IDRIS, Hervé Delouis, Patrick Corde (HTML)
+* [IDRIS Formations Fortran: documentation](http://www.idris.fr/formations/fortran/) (HTML)
+  * [Fortran_Avancé : "Fortran : apports des normes 90 et 95 avec quelques aspects de la norme 2003" (2ème niveau)](http://www.idris.fr/media/formations/fortran/idris_fortran_avance_cours.pdf) - Patrick Corde, Hervé Delouis (PDF) ([:package: travaux pratiques](http://www.idris.fr/media/formations/fortran/idris_fortran_avance_tp.tar.gz))
+  * [Fortran_Base : "Fortran : notions de base" (1er niveau)](http://www.idris.fr/media/formations/fortran/idris_fortran_base_cours.pdf) - Anne Fouilloux, Patrick Corde (PDF) ([:package: examples du support](http://www.idris.fr/media/formations/fortran/idris_fortran_base_exemples.tar.gz), [:package: travaux pratiques](http://www.idris.fr/media/formations/fortran/idris_fortran_base_tp.tar.gz))
+  * [Fortran_Expert : "Fortran : apports de la norme 2003 avec quelques aspects de la norme 2008"](http://www.idris.fr/media/formations/fortran/idris_fortran_expert_cours.pdf) - Patrick Corde, Hervé Delouis (PDF) ([:package: examples du support](http://www.idris.fr/media/formations/fortran/idris_fortran_expert_exemples.tar.gz), [:package: travaux pratiques](http://www.idris.fr/media/formations/fortran/idris_fortran_expert_tp.tar.gz))
 
 
 ### Git
@@ -216,7 +230,7 @@
 ### Perl
 
 * [Guide Perl - débuter et progresser en Perl](http://formation-perl.fr/guide-perl.html) - Sylvain Lhullier
-* [La documentation Perl en français](http://perl.mines-albi.fr/DocFr.html)
+* [La documentation Perl en français](http://perl.mines-albi.fr/DocFr.html) - Paul Gaborit
 
 
 ### PHP
@@ -227,7 +241,7 @@
 
 #### Symfony
 
-* [En route pour Symfony 5](https://symfony.com/doc/5.0/the-fast-track/fr/index.html)
+* [En route pour Symfony 5](https://symfony.com/doc/5.0/the-fast-track/fr/index.html) - Fabien Potencier
 
 
 ### Processing
@@ -239,7 +253,7 @@
 
 * [Appendre à programmer avec Python](http://inforef.be/swi/python.htm) - Gerard Swinnen
 * [Introduction à la programmation](https://self-learning.info.ucl.ac.be/index/info1-exercises) (Inscription gratuite sur le site. Pour réaliser les exercices sur INGInious.org, créez-vous un compte gratuitement et lier ensuite votre compte self-learning à votre compte INGInious. )
-* [Le guide de l’auto-stoppeur pour Python!](https://python-guide-fr.readthedocs.io/fr/latest/)
+* [Le guide de l’auto-stoppeur pour Python!](https://python-guide-fr.readthedocs.io/fr/latest/) - Kenneth Reitz
 * [Python](http://www.lincoste.com/ebooks/pdf/informatique/python.pdf) - Guido Van Rossum (PDF)
 * [Une introduction à Python 3](https://perso.limsi.fr/pointal/python:courspython3) - Bob Cordeau et Laurent Pointal
 

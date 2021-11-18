@@ -4,6 +4,7 @@
 * [Bash / Shell](#bash--shell)
 * [C](#c)
 * [C#](#c-sharp)
+* [C++](#cpp)
 * [Git](#git)
 * [HTML / CSS](#html--css)
 * [Java](#java)
@@ -27,13 +28,21 @@
 ### Bash / Shell
 
 * [Apprendre à utiliser le shell Bash](https://www.pierre-giraud.com/shell-bash/) - Pierre Giraud
+* [Exercices shell scripts](https://ineumann.developpez.com/tutoriels/linux/exercices-shell/) - Idriss Neumann
+* [Quelques bonnes pratiques dans l'écriture de scripts en Bash](https://ineumann.developpez.com/tutoriels/linux/bash-bonnes-pratiques/) - Idriss Neumann
 
 
 ### C
 
 * [Apprendre le langage C](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEh6PCE39HERGgbbaIHhy4j) - Formation Video
 * [Apprendre le langage C - Exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF6lXQpJ4hBha76DsQufiEQ) - Formation Video
+* [Le Langage C](https://zestedesavoir.com/tutoriels/755/le-langage-c-1/) - sur Zeste de Savoir de Informaticienzero, Taure, Paraze et Lucas-84
 * [TUTOS C](https://www.youtube.com/playlist?list=PLEagTQfI6nPOWS4JPnxW5pRVgeyLuS5oC) - PrimFX
+
+
+### <a name="cpp"></a>C++
+
+* [La programmation en C++ moderne](https://zestedesavoir.com/tutoriels/822/la-programmation-en-c-moderne/) - Zeste de savoir informaticienzero mehdidou99
 
 
 ### C Sharp
@@ -74,6 +83,7 @@
 * [Apprendre le JavaScript](https://www.youtube.com/playlist?list=PLjwdMgw5TTLVzD9Jq_WBd1crqDwXRn4cw) - Grafikart
 * [Cours JavaScript](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGxf_PtXLu_OrjFKt4_dqB_) - Formation Video
 * [Déboguer son code JavaScript](https://www.youtube.com/playlist?list=PLjwdMgw5TTLWWXgsHpfCLHJ1Oq4YnE08e) - Grafikart
+* [Tutoriel de javascript moderne](https://fr.javascript.info) - javascript.info
 * [TUTOS JS](https://www.youtube.com/playlist?list=PLEagTQfI6nPPVSKoYo2p8Cf8eijcyz5t9) - PrimFX
 
 
